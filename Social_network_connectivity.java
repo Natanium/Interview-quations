@@ -79,3 +79,6 @@ int n = StdIn.readInt();
 
 
 }
+/*The performance will be M lg N because we are iterating M times (the amount of lines in the log file) 
+and the union operations takes: lg n
+*/
