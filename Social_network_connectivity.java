@@ -1,5 +1,5 @@
--It is all about union finder
--Members are proportional to objects (size of members are equal to size of objects) and they all are connected.
+//It is all about union finder
+//Members are proportional to objects (size of members are equal to size of objects) and they all are connected.
 
 
 public class Cheack_If_All_Connected{
