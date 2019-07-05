@@ -1,2 +1,2 @@
 # Coursera Algohrithms Interview quations Answer
-        Problem-1 the Social Networl connectivity
+        Problem-1 the Social Network connectivity
